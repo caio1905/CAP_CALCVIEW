@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/.gitignore": true,
+    "**/.git": true,
+    "**/.vscode": true
+},
+"actions": [],
+"SAP HANA Database Artifacts.lastSelectedTargetPath": "/home/user/projects/CAP-RestAPI-using-oAuth-2.0-Authentication-/gen/db/src",
+"git.ignoreLimitWarning": true
+}
